@@ -1,4 +1,4 @@
-# RISC-Based-Processor
+# RISC-Based-Processor-Verilog
 RISC-based Basic Processor with Verilog Implementation and Python Assembler
 
 This repository contains the source code and documentation for a RISC-based processor implemented using Verilog. The processor design includes a program memory, program counter, register file, ALU, data memory, and multiplexers. Additionally, a Python-based assembler is provided to convert assembly language programs into the corresponding instruction set for the processor.
